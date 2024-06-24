@@ -1,5 +1,5 @@
 {
-  "name": "Prime Music",
+  "name": "Relix Music",
   "version": "1.0",
   "description": "Music Bot",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "GlaceYT",
+  "author": "Relix",
   "license": "XX",
   "engines": {
     "node": "20.x"
